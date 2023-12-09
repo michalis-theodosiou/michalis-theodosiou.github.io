@@ -8,7 +8,6 @@ if (
   segmentWriteKey = document.currentScript.getAttribute("segment-dev-key");
 }
 
-asdfas
 segmentWriteKey = "UyGRHRDZtJ1BEXcYTe0eqA58A6fVLjCx"
 
 var analytics = (window.analytics = window.analytics || []);
